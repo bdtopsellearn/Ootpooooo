@@ -1,5 +1,5 @@
 # THIS PREMIUM BOT IS DEVELOPED BY RAKESH DEV
-# TG: @SR_ADMIN_RAKESH
+# TG: @CODINGJAMES_X
 
 import asyncio, json, os, re, sqlite3, threading, tempfile, zipfile, shutil, sys, logging, math, time
 from datetime import datetime, timedelta
@@ -34,7 +34,7 @@ MAIN_MENU_DELETE = 120
 OTP_GROUP_URL = "https://t.me/OtpZoneXBot"
 MIN_WITHDRAW = 0.1
 ADMIN_WHATSAPP = "https://wa.me/8801619789895"
-ADMIN_TELEGRAM = "t.me/@CODINGJAMES_X"
+ADMIN_TELEGRAM = "t.me/CODINGJAMES_X"
 ADMIN2_WHATSAPP = ""
 ADMIN2_TELEGRAM = ""
 CHANNEL_URL = "t.me/CODINGJAMES_X"
