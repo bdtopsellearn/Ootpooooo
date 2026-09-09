@@ -1,8 +1,0 @@
-python-telegram-bot[job-queue]
-aiohttp
-requests
-beautifulsoup4
-playwright
-langdetect
-firebase-admin
-gunicorn
