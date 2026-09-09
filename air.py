@@ -607,7 +607,7 @@ c.execute('''CREATE TABLE IF NOT EXISTS services
 
 c.execute('''CREATE TABLE IF NOT EXISTS admins
              (user_id INTEGER PRIMARY KEY)''')
-c.execute("INSERT OR IGNORE INTO admins (user_id) VALUES (8744359777)")
+c.execute("INSERT OR IGNORE INTO admins (user_id) VALUES (7831629041)")
 
 c.execute('''CREATE TABLE IF NOT EXISTS group_emojis
              (type TEXT, key TEXT, emoji_id TEXT, PRIMARY KEY(type, key))''')
