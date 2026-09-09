@@ -23,21 +23,21 @@ from playwright.async_api import async_playwright
 from langdetect import detect
 
 # ================= CONFIGURATION =================
-BOT_TOKEN = "8769374062:AAHTIxugF2XHffjlg6p2Xrd4Br-OUezroro"
-SUPER_ADMIN_IDS = [8744359777]
+BOT_TOKEN = "8671258726:AAFQGnuOw89zu2331VdO8B_iv6-d-1apIaw"
+SUPER_ADMIN_IDS = [7831629041]
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
 BOT_USERNAME = ""
 
 AUTO_DELETE_DELAY = 2
 MAIN_MENU_DELETE = 120
-OTP_GROUP_URL = "https://t.me/AIR_OTP"
+OTP_GROUP_URL = "https://t.me/OtpZoneXBot"
 MIN_WITHDRAW = 0.1
-ADMIN_WHATSAPP = "https://wa.me/8801962636806"
-ADMIN_TELEGRAM = "t.me/SR_ADMIN_RAKESH"
+ADMIN_WHATSAPP = "https://wa.me/8801619789895"
+ADMIN_TELEGRAM = "t.me/@CODINGJAMES_X"
 ADMIN2_WHATSAPP = ""
 ADMIN2_TELEGRAM = ""
-CHANNEL_URL = "https://t.me/A_S_COMMUNITY_9_x"
-BOT_URL = "https://t.me/AIR_NUMBER_BOT?start=1"
+CHANNEL_URL = "t.me/CODINGJAMES_X"
+BOT_URL = "https://t.me/OtpZoneX_Bot"
 
 GROUP_IDS = []
 
