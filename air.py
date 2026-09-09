@@ -31,7 +31,7 @@ BOT_USERNAME = ""
 
 AUTO_DELETE_DELAY = 2
 MAIN_MENU_DELETE = 120
-OTP_GROUP_URL = "https://t.me/OtpZoneXBot"
+OTP_GROUP_URL = "https://t.me/Top_otp_receive"
 MIN_WITHDRAW = 0.1
 ADMIN_WHATSAPP = "https://wa.me/8801619789895"
 ADMIN_TELEGRAM = "t.me/CODINGJAMES_X"
